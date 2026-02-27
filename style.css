@@ -1,0 +1,20 @@
+.image {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  gap: 20px; 
+  flex-wrap: wrap; 
+  margin: 20px auto; 
+}
+
+.image img {
+  border-radius: 10px; 
+}
+h1{
+  color: red;
+ background-color:green;
+}
+
+h2{
+  color:orange
+}
